@@ -1,3 +1,7 @@
+# Nama : Muhammad Abdurrahman Ar-Rafif
+# NPM : 24670042
+# Kelas : Teknik Informatika - 3B
+
 def minimum_change(amount, denominations):
   """
   Menghitung kembalian minimum menggunakan algoritma greedy.
